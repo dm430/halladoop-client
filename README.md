@@ -2,7 +2,7 @@
 Hadoop knock-off for our Distributed Systems Class Project
 
 Consists of three components
-- namenode - [Located here](https://github.com/StevenUlibarri/halladoop-namenode) 
+- [namenode](https://github.com/StevenUlibarri/halladoop-namenode) 
   - maintains image of the virtual file system across the cluster
   - ensures file blocks are replicated across 3 datanodes to provide fault-tolerance
 - datanodes
